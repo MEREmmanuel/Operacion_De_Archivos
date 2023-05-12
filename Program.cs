@@ -1,11 +1,3 @@
-﻿/* Program.cs
-* Administración y organización de datos
-* IINF 4° E
-* Organización de archivos secuenciales
-* Nombre del alumno: Rosemberg Emmanuel Martínez Escobar y Carlos Eduardo Villanueva Ramirez
-* No de control: 21887037 y 21887035
-*/
-
 using System;
 using System.IO;
 
